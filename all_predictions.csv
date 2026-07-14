@@ -1,0 +1,6 @@
+script,output
+tesla-car-base-price-prediction-machine-learning.py,[38064.85792806]
+tesla-car-base-price-range-fully-loaded-coefficient-machine-learning.py,[44.0368154   0.86534579]
+tesla-car-fully-loaded-prediction-machine-learning.py,[-2171943.51288036]
+tesla-car-range-prediction-machine-learning.py,[59.33187693]
+save_prediction.py,38064.85792805756
